@@ -32,6 +32,9 @@ coverage.xml
 # Logs
 *.log
 
+# Persisted high score (local game state)
+high_score.json
+
 # OS generated files
 .DS_Store
 Thumbs.db
